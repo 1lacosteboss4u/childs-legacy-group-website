@@ -1,0 +1,10 @@
+{
+  "name": "Child's Legacy Group",
+  "short_name": "Child's Legacy",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0D1B2A",
+  "theme_color": "#0D1B2A",
+  "description": "Ten Branches. One Legacy. Building Wealth. Preserving Legacy. Empowering Generations."
+}
